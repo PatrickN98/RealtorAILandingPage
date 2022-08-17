@@ -10,7 +10,7 @@
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	<p>For further questions and inquiries please contact <a href="mailto:realtorAI@web.de">realtorAI@web.de</a>.</p>
 </footer>
 
 <style>
